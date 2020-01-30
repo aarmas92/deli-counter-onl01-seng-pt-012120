@@ -11,6 +11,6 @@ def line (katzline)
     katzDeliLine.push("#{pos}. #{customer}")
     pos += 1
     end
-  puts "The line is currently "
+  puts "The line is currently: "
 end
 
