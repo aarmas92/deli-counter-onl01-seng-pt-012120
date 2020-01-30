@@ -1,7 +1,7 @@
 # Write your code here.
 katz_deli = []
 
-def line (katzline)
+def line (katzdeli)
   pos = 0
   katzDeliLine = [] 
   if katzline.length == 0 
