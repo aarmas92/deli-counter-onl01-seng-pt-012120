@@ -8,6 +8,6 @@ def line (katzline)
     puts "The line is currently empty"
   else
     katzline.each do |customer|
-    katzDeliLine.push()
+    katzDeliLine.push("#{pos}")
 end
 
