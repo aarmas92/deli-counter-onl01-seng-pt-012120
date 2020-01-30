@@ -4,7 +4,7 @@ katz_deli = []
 def line (katzline)
   pos = 0
    katzDeliLine = [] 
-  if katzline == 0 
+  if katzline.length == 0 
     puts "The line is currently empty"
   else
     
