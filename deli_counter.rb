@@ -1,4 +1,7 @@
 # Write your code here.
 def line (name) 
-  puts "The line is currently empty."
+  if puts "The line is currently empty."
+  else
+    return "T"
 end
+
