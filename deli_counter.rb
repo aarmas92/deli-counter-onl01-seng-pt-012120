@@ -13,4 +13,5 @@ def line (katzline)
     end
   puts "The line is currently: #{katzDeliLine.join("")} "
 end
+end
 
