@@ -12,6 +12,6 @@ def line (katzline)
     pos += 1
     end
   puts "The line is currently: #{katzDeliLine.join("")} "
- end
+  end
 end
 
