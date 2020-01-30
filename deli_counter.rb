@@ -2,6 +2,6 @@
 def line (name) 
   if puts "The line is currently empty."
   else
-    return "T"
+    return "The line currently"
 end
 
