@@ -9,6 +9,6 @@ def line (katzline)
   else
     katzline.each do |customer|
     katzDeliLine.push("#{pos}. #{customer}")
-    
+    pos+=
 end
 
