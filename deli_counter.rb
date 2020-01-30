@@ -7,6 +7,7 @@ def line (katzline)
   if katzline.length == 0 
     puts "The line is currently empty"
   else
+    katzline.do
     
 end
 
